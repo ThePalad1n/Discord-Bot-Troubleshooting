@@ -1,5 +1,17 @@
 # Discord-Bot-Troubleshooting
+
+
+
+
+
+
 #I have one bracket error. Try copy and pasting on VScode.
+
+
+
+
+
+
 
 module.exports = {
     name: 'command',
